@@ -3,7 +3,7 @@ Joomla Plugin Mpesa
 
 This is an mpesa plugin files for [Joomla!](http://joomla.org/) CMS.
 
-Creator: [Wanguba Extensions](http://ext.wanguba.com/)
+Creator: [Wanguba Evans Charles](https://github.com/Evans-Wanguba/)
 
 Usage
 -----
